@@ -1,3 +1,3 @@
 module.exports = {
-     url : 'mongodb://127.0.0.1/reader_test'
+     url : 'mongodb://tester:test765@ds023550.mlab.com:23550/rajatppn'
  }
